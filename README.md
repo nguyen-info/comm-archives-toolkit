@@ -5,7 +5,6 @@ coverY: 0
 
 # 👋 Community Archives Toolkit
 
-{% hint style="info" %}
 **About:** This is a collection of resources that works to build awareness of and skills related to building a community archive. It includes resources from other public libraries and community organizations that have built community archives and other more general resources. The full toolkit is on this website. You can [view or print a PDF version of the Community Archives Toolkit here](https://www.tacomalibrary.org/wp-content/uploads/sites/16/2023/08/TPLCommunityArchivesToolkit.pdf).
 {% endhint %}
 
